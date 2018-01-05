@@ -159,6 +159,7 @@ Foreach ($videocard in $videocards) {
                 'You chose option #4: Import powerplay tables. (Make sure to edit "VegaPowerPlayTable.txt". Do not modify ZZzz.)'
                 $confirmation = Read-Host "Are you sure you want to import powerplay tables from 'VegaPowerPlayTable.txt? (Y/N):"
                     if ($confirmation -eq 'y') {
+                    New-Item -ItemType Directory -Force -Path RegFiles
                     $powerplaytable = (Get-Content $PSScriptRoot\VegaPowerPlayTable.txt )
                     $videocards = Get-ChildItem "hklm:\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}" -ErrorAction Ignore | select -ExpandProperty Name
 $registrychanges = 0 
