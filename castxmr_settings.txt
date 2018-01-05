@@ -1,0 +1,3 @@
+wallet:48186nvTbymXS8J1GZhv1f6mhPxhsr13pLzMMngwRtmcdwZBMjqmYAxHPTqyENTvQK8dhwQSPGP9VdAPSJYYCzt1SYBdNXo
+pooladdress:pool.supportxmr.com:7777
+poolpassword:x

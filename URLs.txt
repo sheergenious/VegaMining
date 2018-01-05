@@ -1,0 +1,22 @@
+Device management powershell script
+https://gallery.technet.microsoft.com/PowerShell-Device-60d73bb0#content
+https://gallery.technet.microsoft.com/PowerShell-Device-60d73bb0/file/147248/2/DeviceManagement.zip
+
+AMD Driver
+http://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Crimson-ReLive-Edition-Beta-for-Blockchain-Compute-Release-Notes.aspx
+
+Display driver Uninstaller
+http://www.guru3d.com/files-details/display-driver-uninstaller-download.html
+http://www.guru3d.com/files-get/display-driver-uninstaller-download,9.html
+
+OverdriveNTool
+https://forums.guru3d.com/threads/overdriventool-tool-for-amd-gpus.416116/
+https://drive.google.com/open?id=1X9gameYP9XtRnYTVR7sJqpVVynKsTtHB
+
+Device manager view - Tool to disable and re-enable the cards
+http://www.nirsoft.net/utils/device_manager_view.html
+http://www.nirsoft.net/utils/devmanview-x64.zip
+
+Cast-XMR
+https://bitcointalk.org/index.php?topic=2256917.0;all
+http://www.gandalph3000.com/download/cast_xmr-vega-win64_080.zip
