@@ -1,18 +1,19 @@
 # VegaMining
 Script to assist in setting optimal mining settings for Vega 56 or Vega 64
+
 How to use it: 
 
-Right click StartVegaSetup.bat and click "Run as Administrator"
-Select the option you want to run. The explecations of the options are written below. 
-The steps should go something like:
-Download and extract the files - Option 0 (Read notes on option 0 below.)
-Run Display Driver Uninstaller - Option 2
-Install AMD drivers
-Disable Ulps and Crossfire Detection - Option 3
-Import powerplay tables - Option 4
-Set overdrive profiles - Option 5
-Disable and re-enable the cards - Option 6
-Run your mining program - Option 7
+	1: 	Right click StartVegaSetup.bat and click "Run as Administrator"
+	2:	Select the option you want to run. The explecations of the options are written below. 
+	3:	The steps should go something like:
+	4:	Download and extract the files - Option 0 (Read notes on option 0 below.)
+	5:	Run Display Driver Uninstaller - Option 2
+	6:	Install AMD drivers
+	7:	Disable Ulps and Crossfire Detection - Option 3
+	8:	Import powerplay tables - Option 4
+	9:	Set overdrive profiles - Option 5
+	10:	Disable and re-enable the cards - Option 6
+	11:	Run your mining program - Option 7
 
 
 
@@ -40,3 +41,8 @@ Options:
      7: Press '7' to run cast-xmr.
 		This will run cast-xmr. It will prompt you for your wallet address and pool url. It will save the info you input into Settings.txt, so modify this file if you want to change the settings going foward. 
      Q: Press 'Q' to quit.
+	 
+	 
+Bitcoin: 13gG5T776ZffEPgm8fShoBUADb1QzLeFmW
+Monero: 48186nvTbymXS8J1GZhv1f6mhPxhsr13pLzMMngwRtmcdwZBMjqmYAxHPTqyENTvQK8dhwQSPGP9VdAPSJYYCzt1SYBdNXo
+Ethereum: 0x7D8486861ec96FF7C64E590C088D568fb72BE3FE
