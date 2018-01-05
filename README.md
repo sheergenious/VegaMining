@@ -1,7 +1,9 @@
 # VegaMining
 Script to assist in setting optimal mining settings for Vega 56 or Vega 64
 
-How to use it: 
+	Attention: The powerplay settings I have set are for Vega 56. Please see vega.miningguides.com to download the powerplay registry file for the 64 and copy it to the VegaPowerPlayTable.txt file. 
+
+	How to use it: 
 
 	1: 	Right click StartVegaSetup.bat and click "Run as Administrator"
 	2:	Select the option you want to run. The explecations of the options are written below. 
